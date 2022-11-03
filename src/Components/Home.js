@@ -8,7 +8,7 @@ function Home(props) {
     <div>
       <div className='box'>
         <div>
-          <h2>Welcome, to our Forecast Weather App</h2>
+          <h2>Welcome! to our Weather Forecast  App</h2>
         </div>
         <div>
           <p>Weather forecasting is the application of science and technology to predict
